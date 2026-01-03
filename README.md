@@ -9,6 +9,10 @@ Topics may include:
 - Web3
 
 ---
+## Articles
+
+- [Understanding Native Multimodality: Gemini, TPU, and the Path Toward Embodied AI](native-multimodality.md)  
+---
 
 ## Usage
 
@@ -23,3 +27,4 @@ Topics may include:
 [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 You can share and adapt this content **non-commercially** with proper attribution.
+
