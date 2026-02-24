@@ -12,6 +12,7 @@ Topics may include:
 ## Articles
 
 - [Understanding Native Multimodality: Gemini, TPU, and the Path Toward Embodied AI](native-multimodality.md)  
+- [2026: The Shift from Language Models to Reasoning Engines](AGI.md)
 ---
 
 ## Usage
