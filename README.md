@@ -4,15 +4,15 @@ A collection of my personal notes on technical topics.
 
 Topics may include:
 - AI / ML
-- Computer Vision
+- System Design
 - Robotics
-- Web3
 
 ---
 ## Articles
 
 - [Understanding Native Multimodality: Gemini, TPU, and the Path Toward Embodied AI](ai-notes/native-multimodality.md)  
 - [2026: The Shift from Language Models to Reasoning Engines](ai-notes/AGI.md)
+- [From Client Meeting to Architecture: A Framework for Building ML Systems Under Real-World Constraints](system-design/Building-ML-Systems.md)
 ---
 
 ## Usage
